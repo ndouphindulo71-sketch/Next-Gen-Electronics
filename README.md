@@ -129,6 +129,18 @@ All pages were checked to ensure that the website remains usable at different sc
 * Added responsive image attributes using `srcset` and `sizes`.
 * Tested the website on desktop, tablet and mobile screen sizes.
 
+Part 2 Updates
+
+- Implemented the HTML website structure that was identified as missing in the Part 1 feedback.
+- Created the required five HTML pages: Home, About, Products, Gallery and Contact.
+- Added functional navigation links between all website pages.
+- Created and linked an external CSS stylesheet to all HTML pages.
+- Applied CSS styling to improve the website layout, typography, colours and overall visual appearance.
+- Added responsive design using CSS media queries for desktop, tablet and mobile screen sizes.
+- Added responsive images using the `srcset` and `sizes` attributes where required.
+- Tested the website at different screen sizes and adjusted the layout to improve usability.
+- Added desktop, tablet and mobile screenshot evidence to the README.
+- Updated the website content, images and contact information.
 ## References
 
 * MDN Web Docs – HTML documentation.

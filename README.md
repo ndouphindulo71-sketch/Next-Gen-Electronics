@@ -52,7 +52,7 @@ The website was tested at a desktop screen size to ensure that the navigation, c
 
 **Desktop screenshot:**
 
-![Desktop Screenshot](Images/desktop.png)
+![Desktop Screenshot](images/desktop.png)
 
 ### Tablet
 
@@ -62,7 +62,7 @@ The website was tested at a tablet screen size of approximately 768px wide. The 
 
 **Tablet screenshot:**
 
-![Tablet Screenshot](Images/tablet.png)
+![Tablet Screenshot](images/tablet.png)
 
 ### Mobile
 
@@ -72,7 +72,7 @@ The website was tested at a mobile screen size of approximately 375px wide. Cont
 
 **Mobile screenshot:**
 
-![Mobile Screenshot](Images/mobile.png)
+![Mobile Screenshot](images/mobile.png)
 
 ## CSS Structure
 
